@@ -3,7 +3,7 @@ TensorFlow_Introduction
 Core_Learning_Algorithms
 Neural_Networks
 Computer_Vision
+Natural_Language_Processing_with_RNNs_
 
 Not done:
 Reinforcement_Learning
-Natural_Language_Processing_with_RNNs_
